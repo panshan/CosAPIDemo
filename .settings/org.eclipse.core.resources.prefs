@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//cos-python-sdk-v4-master/Operation.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_client.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_common.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_config.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_cred.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_err.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_op.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_params_check.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/cos_request.py=utf-8
+encoding//cos-python-sdk-v4-master/qcloud_cos/threadpool.py=utf-8
+encoding/<project>=UTF-8
